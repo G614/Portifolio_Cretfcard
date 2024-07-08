@@ -63,7 +63,7 @@ body {
   border-radius: 20px;
 }
 
-.projetos-titulo {
+#projetos-titulo {
   text-decoration-color: #0303ae;
   list-style: none;
   font-weight: 700;
